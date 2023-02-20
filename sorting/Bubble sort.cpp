@@ -1,10 +1,3 @@
----
-title: Example C++ File
-language: cpp
----
-
-
-
 #include <bits/stdc++.h>
 using namespace std;
 
